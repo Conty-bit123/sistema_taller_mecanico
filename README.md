@@ -21,7 +21,7 @@ Su objetivo es facilitar el seguimiento de cada reparacion desde la recepcion de
 
 ---
 
-## Tegnologias utulizados 
+## Tegnologias utilizados 
 
 - PHP
 - JavaScript
@@ -44,4 +44,18 @@ La aplicacion utiliza MySQL con una base de datos relacional compuesta por tabla
 - Trabajos
 - Servicios
 - Servicios_detalle
+
+---
+
+## Conocimientos aplicados
+
+- Programación orientada a objetos en PHP
+- Diseño y utilización de bases de datos relacionales
+- Consultas SQL
+- CRUD
+- Manejo de sesiones
+- AJAX y JSON
+- Manipulación del DOM con JavaScript/jQuery
+- Validación de datos
+- Organización del código en clases
 
