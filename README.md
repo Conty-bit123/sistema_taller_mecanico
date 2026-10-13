@@ -21,7 +21,7 @@ Su objetivo es facilitar el seguimiento de cada reparacion desde la recepcion de
 
 ---
 
-## Tegnologias utilizados 
+## Tegnologias utilizadas 
 
 - PHP
 - JavaScript
@@ -69,5 +69,31 @@ La aplicacion utiliza MySQL con una base de datos relacional compuesta por tabla
 
 ### Recibir vehiculo
 
-![Recibir vahiculo](capturas/Recibir_vehiculo.png)
+![Recibir vehiculo](capturas/Recibir_vehiculo.png)
+
+### Agregar servicio
+
+![Agregar servicio](capturas/Agregar servicios o trabajos.png)
+
+### Servicio cargado
+
+
+
+### Servicio finalizado
+
+
+
+### Vehiculo entregado
+
+
+### Consultas
+
+
+
+### Consultar servicio
+
+
+
+### Consultar DNI
+
 
