@@ -58,4 +58,16 @@ La aplicacion utiliza MySQL con una base de datos relacional compuesta por tabla
 - Manipulación del DOM con JavaScript/jQuery
 - Validación de datos
 - Organización del código en clases
+  
+---
+
+## Capturas de pantalla
+
+### Pantalla de inicio
+
+![Pantalla de inicio](capturas/inicio.png)
+
+### Recibir vehiculo
+
+![Recibir vahiculo](capturas/Recibir_vehiculo.png)
 
