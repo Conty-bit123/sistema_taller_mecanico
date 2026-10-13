@@ -89,7 +89,7 @@ La aplicacion utiliza MySQL con una base de datos relacional compuesta por tabla
 
 ### Consultas
 
-![Consultas](capturas/Consultas.png)
+![Consulta](capturas/Consulta.png)
 
 ### Consultar servicio
 
