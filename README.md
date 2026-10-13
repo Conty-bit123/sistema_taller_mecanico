@@ -73,22 +73,23 @@ La aplicacion utiliza MySQL con una base de datos relacional compuesta por tabla
 
 ### Agregar servicio
 
-![Agregar servicio](capturas/Agregar servicios o trabajos.png)
+![Agregar servicio](capturas/Agregar_servicios.png)
 
 ### Servicio cargado
 
-
+![Servicio cargado](capturas/servicios_cargados.png)
 
 ### Servicio finalizado
 
-
+![Servicio finalizado](capturas/Servicio_finalizado.png)
 
 ### Vehiculo entregado
 
+![Vehiculo entregado](capturas/Vehiculo_entregado.png)
 
 ### Consultas
 
-
+![Consultas](capturas/Consultas.png)
 
 ### Consultar servicio
 
