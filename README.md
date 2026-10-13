@@ -93,8 +93,8 @@ La aplicacion utiliza MySQL con una base de datos relacional compuesta por tabla
 
 ### Consultar servicio
 
-
+![Consulta servicio](capturas/Consultar_Servicio.png)
 
 ### Consultar DNI
 
-
+![Consulta DNI](capturas/Consulta_DNI.png)
