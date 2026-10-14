@@ -98,3 +98,9 @@ La aplicacion utiliza MySQL con una base de datos relacional compuesta por tabla
 ### Consultar DNI
 
 ![Consulta DNI](capturas/Consulta_DNI.png)
+
+---
+
+## 👩‍💻 Autora
+
+Priscilla Guerrero
