@@ -101,6 +101,6 @@ La aplicacion utiliza MySQL con una base de datos relacional compuesta por tabla
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 Priscilla Guerrero
